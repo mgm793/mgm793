@@ -1,7 +1,13 @@
-Welcome to my github account! 
+---
+  👾 &nbsp; Marc Garcia i Mullon (He/Him)\
+  🌐  &nbsp; [https://marcgarciamullon.com](https://marcgarciamullon.com)\
+  📫  &nbsp; mgm793@gmail.com\
+  <img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='20px'/> &nbsp; [/marcgarciamullon](https://linkedin.com/in/marcgarciamullon/)
 
-This description is under construction 🚧
+---
 
+[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgm793&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgm793&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mgm793/mgm793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
